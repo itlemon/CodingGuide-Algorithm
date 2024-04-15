@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * 350. 两个数组的交集 II https://leetcode.cn/problems/intersection-of-two-arrays-ii/description/
+ * 350. 两个数组的交集 II <a href="https://leetcode.cn/problems/intersection-of-two-arrays-ii/description/">链接</a>
  *
  * @author itlemon <lemon_jiang@aliyun.com>
  * Created on 2024-04-08

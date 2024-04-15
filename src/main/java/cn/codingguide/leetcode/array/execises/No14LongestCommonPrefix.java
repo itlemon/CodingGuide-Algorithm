@@ -1,7 +1,7 @@
 package cn.codingguide.leetcode.array.execises;
 
 /**
- * No14. 最长公共前缀 https://leetcode.cn/problems/longest-common-prefix/description/
+ * No14. 最长公共前缀 <a href="https://leetcode.cn/problems/longest-common-prefix/description/">链接</a>
  *
  * @author itlemon <lemon_jiang@aliyun.com>
  * Created on 2024-04-09

@@ -3,7 +3,7 @@ package cn.codingguide.leetcode.array.execises;
 import java.util.*;
 
 /**
- * 349. 两个数组的交集 https://leetcode.cn/problems/intersection-of-two-arrays/description/
+ * 349. 两个数组的交集 <a href="https://leetcode.cn/problems/intersection-of-two-arrays/description/">链接</a>
  *
  * @author itlemon <lemon_jiang@aliyun.com>
  * Created on 2024-04-08
