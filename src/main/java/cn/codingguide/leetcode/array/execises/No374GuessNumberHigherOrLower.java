@@ -1,7 +1,7 @@
 package cn.codingguide.leetcode.array.execises;
 
 /**
- * No.374 猜数字大小 https://leetcode.cn/problems/guess-number-higher-or-lower/
+ * No.374 猜数字大小： <a href="https://leetcode.cn/problems/guess-number-higher-or-lower/">链接</a>
  *
  * @author itlemon <lemon_jiang@aliyun.com>
  * Created on 2022-10-30

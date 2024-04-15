@@ -1,7 +1,7 @@
 package cn.codingguide.leetcode.array.execises;
 
 /**
- * No.35 搜索插入位置 https://leetcode.cn/problems/search-insert-position/
+ * No.35 搜索插入位置： <a href="https://leetcode.cn/problems/search-insert-position/">链接</a>
  *
  * @author itlemon <lemon_jiang@aliyun.com>
  * Created on 2022-10-30

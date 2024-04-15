@@ -1,7 +1,7 @@
 package cn.codingguide.leetcode.array.execises;
 
 /**
- * No.704 二分查找：https://leetcode.cn/problems/binary-search/
+ * No.704 二分查找：<a href="https://leetcode.cn/problems/binary-search/">链接</a>
  *
  * @author itlemon <lemon_jiang@aliyun.com>
  * Created on 2022-10-23
