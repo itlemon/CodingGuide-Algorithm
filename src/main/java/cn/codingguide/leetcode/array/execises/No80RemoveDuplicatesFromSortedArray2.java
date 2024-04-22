@@ -16,19 +16,15 @@ public class No80RemoveDuplicatesFromSortedArray2 {
         }
 
         int index = 0;
-        int count = 1;
         for (int i = 1; i < nums.length; i++) {
-            if (nums[i] != nums[index]) {
-                nums[++index] = nums[i];
-                count = 1;
-            } else {
-                count++;
-                if (count <= 2) {
-                    index++;
-                    if (i == nums.length - 1) {
-                        nums[index] = nums[i];
-                    }
+            if (nums[i] == nums[index]) {
+                if (index >= 1 && nums[index - 1] == nums[index]) {
+                    // 判断前一位和当前index位是否一样，一样就不做任何事情
+                } else {
+                    nums[++index] = nums[i];
                 }
+            } else {
+                nums[++index] = nums[i];
             }
         }
 
