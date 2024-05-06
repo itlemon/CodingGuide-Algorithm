@@ -43,9 +43,11 @@ public class No153ThreeSum {
                     while (left < right && nums[right] == nums[--right]) {
                     }
                 } else if (nums[left] + nums[right] > target) {
-                    right--;
+                    while (left < right && nums[right] == nums[--right]) {
+                    }
                 } else {
-                    left++;
+                    while (left < right && nums[left] == nums[++left]) {
+                    }
                 }
             }
         }
